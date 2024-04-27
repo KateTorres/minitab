@@ -1,5 +1,5 @@
 0*
 *.bak
-.idea/
-.backup/
-.data/
+.idea/*.*
+.backup/*.*
+.data/*.*
